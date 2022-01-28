@@ -48,7 +48,7 @@ namespace Controller
         }
 
 
-        /*   Test condition when speed is witin safe range.
+        /*   Test condition when speed is within safe range.
             Expected result is the saftey feature will not trigger.
        */
         [Test]
